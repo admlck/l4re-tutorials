@@ -2,7 +2,6 @@ checkoutSCM:
     - scm: git
       url: https://github.com/l4re/mk.git
       branch: main
-      tag: r-2025-W31
       shallow: "2024-11-19"
 
 buildScript: |
